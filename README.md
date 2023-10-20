@@ -1,6 +1,6 @@
 # IABD
 
-## Entornos virtuales
+## Creación de entornos virtuales
 
 - Instalar python desde la [Microsoft Store](https://apps.microsoft.com/detail/python-310/9PJPW5LDXLZ5?hl=es-es&gl=ES)
 - Crear entorno virtual
@@ -19,7 +19,7 @@ pip install pandas
 ~~~
 pip list
 ~~~
-| dependencias del entorno 1 | Dependencias del entorno 2 |
+| Dependencias del entorno 1 | Dependencias del entorno 2 |
 |----------|----------|
 | ![image](https://github.com/Romera02rrs/IABD/assets/76781930/70bdf2ba-4402-413e-ac1f-8a9e3fb7aaae) | ![image](https://github.com/Romera02rrs/IABD/assets/76781930/2ae8a1e4-a9e9-4c08-bc9f-12ca9af41187)
 
