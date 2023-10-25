@@ -52,3 +52,17 @@ deactivate
 | Dependencia de conexión a internet |               |          |       ✓      |
 | Recursos compartidos limitados   |                  |          |       ✓      |
 
+## Anaconda
+
+Una vez instalado el programa, buscamos la opción de Notebook de Jupiter y hacemos clic sobre "Launch"
+![image](https://github.com/Romera02rrs/IABD/assets/76781930/e22a086f-936d-4e2f-85c1-ae50ba9b95d9)
+
+Se nos abrirá un localhost donde tendremos nuestro sitema de ficheros local, para crear un nuevo notebook debemos de hacer click en "New" > "Python 3 (ipykernel)"
+![image](https://github.com/Romera02rrs/IABD/assets/76781930/bca24e1f-07a6-43ce-8c29-2d315a2b17c9)
+
+Por último, podemos crear un celda con nuestro codiog de python y ejecutarla haciendo click en "Run" o presionando las teclas "Control" + "Enter"
+![image](https://github.com/Romera02rrs/IABD/assets/76781930/2ed31478-3b29-4815-8529-54475dc106e8)
+
+
+
+
